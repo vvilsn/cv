@@ -1,0 +1,20 @@
+  body {
+    background-color: #C4BBF0;;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: #927FBF;
+    border-width: 5px;
+    height: 0;
+    width: 5%
+  }
+
+  h1 {
+    color: #363B4E;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  h3 {
+    color: #4F3B78
+  }
